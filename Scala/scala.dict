@@ -2110,6 +2110,7 @@ nextElement
 nextFloat
 nextGaussian
 nextInt
+nextLine
 nextLong
 nextMagicA
 nextMagicB
